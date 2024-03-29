@@ -1,0 +1,82 @@
+Data size	M	Height	Interior node number	Leaf node number	Construction time	NNQuery time	RangeQuery time				
+466951	130	3	122	6598	7.45	53.4	3.65				
+12433	130	3	4	194	0.139	13.4	0.0426				
+488	130	2	1	5	0.00289	0.246	0.00545				
+											
+											
+											
+Quad-tree											
+Capacity	Height	Interior node number	Leaf node number	Construction time	NNQuery time	RangeQuery time					
+70	13	5925	17776	0.561	1.03	2.88					
+130	12	3251	9754	0.503	1.01	2.51					
+200	12	2121	6364	0.516	1.29	2.9					
+											
+											
+											
+ 											
+Capacity	Height	Interior node number	Leaf node number	Construction time	NNQuery time	RangeQuery time					
+70	8	219	658	0.0119	6.97	0.0837					
+80	8	187	562	0.0108	6.13	0.0796					
+90	8	160	481	0.01	6.22	0.0785					
+100	7	140	421	0.0101	6.29	0.0737					
+110	7	124	373	0.00944	6.36	0.078					
+120	7	111	334	0.00918	6.18	0.0786					
+130	7	100	301	0.00852	6.13	0.0747					
+140	7	93	280	0.00863	5.94	0.0752					
+150	7	87	262	0.00841	5.55	0.0661					
+160	7	78	235	0.00766	5.51	0.0647					
+170	7	74	223	0.00761	5.49	0.0653					
+180	7	69	208	0.00762	5.38	0.0621					
+190	7	64	193	0.00764	5.41	0.0593		Capacity	taxi	highway	station
+200	7	59	178	0.00742	5.37	0.0592		70	0.561	0.0119	0.000204
+								130	0.503	0.00852	0.000216
+								200	0.516	0.00742	0.000109
+Capacity	Height	Interior node number	Leaf node number	Construction time	NNQuery time	RangeQuery time					
+70	3	4	13	0.000204	0.349	0.00399					
+80	3	4	13	0.000194	0.357	0.00391					
+90	3	4	13	0.000184	0.353	0.00419					
+100	3	3	10	0.000181	0.391	0.00465					
+110	3	3	10	0.000184	0.38	0.00437					
+120	3	3	10	0.000169	0.382	0.00484					
+130	3	3	10	0.000216	0.38	0.00429					
+140	3	3	10	0.000171	0.386	0.00432					
+150	3	2	7	0.000143	0.472	0.00488					
+160	3	2	7	0.000145	0.469	0.00509					
+170	3	2	7	0.000146	0.463	0.00483					
+180	3	2	7	0.000142	0.466	0.00508					
+190	2	1	4	0.000109	0.546	0.00529					
+200	2	1	4	0.000109	0.546	0.00549					
+											
+											
+											
+											
+								Capacity	taxi	highway	station
+rtree								70	3.86	0.087	0.00194
+Data size	Capacity	Height	Interior node number	Leaf node number	Construction time	NNQuery time	RangeQuery time	130	7.45	0.139	0.00289
+466951	70	4	379	11897	3.86	53.3	3.97	200	9.16	0.174	0.0044
+466951	130	3	122	6598	7.45	53.4	3.65				
+466951	200	3	52	4352	9.16	75.4	4.15				
+											
+											
+											
+											
+Data size	Capacity	Height	Interior node number	Leaf node number	Construction time	NNQuery time	RangeQuery time				
+12433	70	3	12	339	0.087	13.4	0.0392				
+12433	130	3	4	194	0.139	13.4	0.0426				
+12433	200	2	1	119	0.174	13.3	0.0453				
+											
+											
+											
+											
+Data size	Capacity	Height	Interior node number	Leaf node number	Construction time	NNQuery time	RangeQuery time				
+488	70	2	1	9	0.00194	0.219	0.00452				
+488	130	2	1	5	0.00289	0.246	0.00545				
+488	200	2	1	4	0.0044	0.225	0.0047				
+											
+											
+											
+											
+						NNQuery time	NNQuery time	NNQuery time			
+						53.3	13.4	0.219			
+						53.4	13.4	0.246			
+						75.4	13.3	0.225			

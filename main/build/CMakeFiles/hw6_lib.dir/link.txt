@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libhw6_lib.a CMakeFiles/hw6_lib.dir/Geometry.cpp.o CMakeFiles/hw6_lib.dir/QuadTree.cpp.o CMakeFiles/hw6_lib.dir/QuadTreeTest.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libhw6_lib.a

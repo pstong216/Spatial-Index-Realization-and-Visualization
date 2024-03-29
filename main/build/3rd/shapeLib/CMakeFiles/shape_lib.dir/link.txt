@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libshape_lib.a CMakeFiles/shape_lib.dir/dbfopen.cpp.o CMakeFiles/shape_lib.dir/safileio.cpp.o CMakeFiles/shape_lib.dir/shpopen.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libshape_lib.a

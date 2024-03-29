@@ -1,0 +1,219 @@
+*************************
+texi test
+data size: 466951
+Capacity 70
+Height: 13 	Interior node number: 5925 	Leaf node number: 17776
+Construction time: 560s
+NNQuery time: 0.896s
+
+Capacity 80
+Height: 13 	Interior node number: 5230 	Leaf node number: 15691
+Construction time: 558s
+NNQuery time: 0.895s
+
+Capacity 90
+Height: 13 	Interior node number: 4677 	Leaf node number: 14032
+Construction time: 525s
+NNQuery time: 0.861s
+
+Capacity 100
+Height: 13 	Interior node number: 4227 	Leaf node number: 12682
+Construction time: 563s
+NNQuery time: 0.933s
+
+Capacity 110
+Height: 12 	Interior node number: 3840 	Leaf node number: 11521
+Construction time: 510s
+NNQuery time: 0.898s
+
+Capacity 120
+Height: 12 	Interior node number: 3521 	Leaf node number: 10564
+Construction time: 500s
+NNQuery time: 0.899s
+
+Capacity 130
+Height: 12 	Interior node number: 3251 	Leaf node number: 9754
+Construction time: 498s
+NNQuery time: 0.92s
+
+Capacity 140
+Height: 12 	Interior node number: 3023 	Leaf node number: 9070
+Construction time: 487s
+NNQuery time: 0.932s
+
+Capacity 150
+Height: 12 	Interior node number: 2833 	Leaf node number: 8500
+Construction time: 483s
+NNQuery time: 0.946s
+
+Capacity 160
+Height: 12 	Interior node number: 2646 	Leaf node number: 7939
+Construction time: 480s
+NNQuery time: 0.965s
+
+Capacity 170
+Height: 12 	Interior node number: 2490 	Leaf node number: 7471
+Construction time: 474s
+NNQuery time: 0.98s
+
+Capacity 180
+Height: 12 	Interior node number: 2342 	Leaf node number: 7027
+Construction time: 470s
+NNQuery time: 0.998s
+
+Capacity 190
+Height: 12 	Interior node number: 2227 	Leaf node number: 6682
+Construction time: 466s
+NNQuery time: 1.02s
+
+Capacity 200
+Height: 12 	Interior node number: 2121 	Leaf node number: 6364
+Construction time: 464s
+NNQuery time: 1.04s
+
+*************************
+highway test
+data size: 12433
+Capacity 70
+Height: 8 	Interior node number: 219 	Leaf node number: 658
+Construction time: 10.9s
+NNQuery time: 6.47s
+
+Capacity 80
+Height: 8 	Interior node number: 187 	Leaf node number: 562
+Construction time: 10.1s
+NNQuery time: 5.72s
+
+Capacity 90
+Height: 8 	Interior node number: 160 	Leaf node number: 481
+Construction time: 9.75s
+NNQuery time: 5.71s
+
+Capacity 100
+Height: 7 	Interior node number: 140 	Leaf node number: 421
+Construction time: 9.18s
+NNQuery time: 5.87s
+
+Capacity 110
+Height: 7 	Interior node number: 124 	Leaf node number: 373
+Construction time: 9.67s
+NNQuery time: 5.79s
+
+Capacity 120
+Height: 7 	Interior node number: 111 	Leaf node number: 334
+Construction time: 8.79s
+NNQuery time: 5.82s
+
+Capacity 130
+Height: 7 	Interior node number: 100 	Leaf node number: 301
+Construction time: 8.47s
+NNQuery time: 5.81s
+
+Capacity 140
+Height: 7 	Interior node number: 93 	Leaf node number: 280
+Construction time: 8.71s
+NNQuery time: 5.54s
+
+Capacity 150
+Height: 7 	Interior node number: 87 	Leaf node number: 262
+Construction time: 8.18s
+NNQuery time: 5.27s
+
+Capacity 160
+Height: 7 	Interior node number: 78 	Leaf node number: 235
+Construction time: 7.86s
+NNQuery time: 5.21s
+
+Capacity 170
+Height: 7 	Interior node number: 74 	Leaf node number: 223
+Construction time: 7.72s
+NNQuery time: 5.17s
+
+Capacity 180
+Height: 7 	Interior node number: 69 	Leaf node number: 208
+Construction time: 7.66s
+NNQuery time: 5.06s
+
+Capacity 190
+Height: 7 	Interior node number: 64 	Leaf node number: 193
+Construction time: 7.77s
+NNQuery time: 5.07s
+
+Capacity 200
+Height: 7 	Interior node number: 59 	Leaf node number: 178
+Construction time: 7.43s
+NNQuery time: 5.15s
+
+*************************
+station test
+data size: 488
+Capacity 70
+Height: 3 	Interior node number: 4 	Leaf node number: 13
+Construction time: 0.212s
+NNQuery time: 0.331s
+
+Capacity 80
+Height: 3 	Interior node number: 4 	Leaf node number: 13
+Construction time: 0.199s
+NNQuery time: 0.331s
+
+Capacity 90
+Height: 3 	Interior node number: 4 	Leaf node number: 13
+Construction time: 0.227s
+NNQuery time: 0.33s
+
+Capacity 100
+Height: 3 	Interior node number: 3 	Leaf node number: 10
+Construction time: 0.179s
+NNQuery time: 0.359s
+
+Capacity 110
+Height: 3 	Interior node number: 3 	Leaf node number: 10
+Construction time: 0.193s
+NNQuery time: 0.361s
+
+Capacity 120
+Height: 3 	Interior node number: 3 	Leaf node number: 10
+Construction time: 0.181s
+NNQuery time: 0.36s
+
+Capacity 130
+Height: 3 	Interior node number: 3 	Leaf node number: 10
+Construction time: 0.178s
+NNQuery time: 0.359s
+
+Capacity 140
+Height: 3 	Interior node number: 3 	Leaf node number: 10
+Construction time: 0.201s
+NNQuery time: 0.364s
+
+Capacity 150
+Height: 3 	Interior node number: 2 	Leaf node number: 7
+Construction time: 0.154s
+NNQuery time: 0.45s
+
+Capacity 160
+Height: 3 	Interior node number: 2 	Leaf node number: 7
+Construction time: 0.156s
+NNQuery time: 0.463s
+
+Capacity 170
+Height: 3 	Interior node number: 2 	Leaf node number: 7
+Construction time: 0.165s
+NNQuery time: 0.444s
+
+Capacity 180
+Height: 3 	Interior node number: 2 	Leaf node number: 7
+Construction time: 0.158s
+NNQuery time: 0.441s
+
+Capacity 190
+Height: 2 	Interior node number: 1 	Leaf node number: 4
+Construction time: 0.121s
+NNQuery time: 0.522s
+
+Capacity 200
+Height: 2 	Interior node number: 1 	Leaf node number: 4
+Construction time: 0.128s
+NNQuery time: 0.529s
+
